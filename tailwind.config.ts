@@ -15,6 +15,10 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        iransans: ['IRANSans','sans-serif'],
+        iransansNumber: ['iransansNumber']
+      },
     },
   },
   plugins: [],
